@@ -1,3 +1,6 @@
 [submodule "APIGatewayFrontend"]
 	path = APIGatewayFrontend
 	url = https://github.com/FedericoIafolla/APIGatewayFrontend.git
+[submodule "servizio-lettura-dati"]
+	path = servizio-lettura-dati
+	url = https://github.com/oBeta97/servizio-lettura-dati.git
