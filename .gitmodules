@@ -1,0 +1,3 @@
+[submodule "APIGatewayFrontend"]
+	path = APIGatewayFrontend
+	url = https://github.com/FedericoIafolla/APIGatewayFrontend.git
